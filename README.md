@@ -22,13 +22,17 @@ I'am a Backend Software Engineer. I love creating open-source packages and playi
 PHP, MySQL, Go, Laravel, Linux
   
 #### Popular Platforms && SDKs I worked with
-- Google (Google Ads API, Google Adwords API, Google Content API, Google Auth)
-- Facebook (Facebook Marketing API, WhatsApp Cloud API, Pixel API, Graph API, Login API)
-- Snapchat (Snapchat Marketing API)
-- TikTok (TikTok Ads/Marketing API)
-- Shopify (Create Application, Manage Shops)
-- BigCommerce
-  
+- **Google** (Google Ads API, Google Adwords API, Google Content API, Google Auth)
+- **Facebook** (Facebook Marketing API, WhatsApp Cloud API, Pixel API, Graph API, Login API)
+- **Snapchat** (Snapchat Marketing API)
+- **TikTok** (TikTok Ads/Marketing API)
+- **Shopify** (Create Application, Manage Shops)
+- **BigCommerce** (Create Application, Manage Shops)
+
+#### Contant With Me
+- Facebook
+- Linkedin
+- Twitter
 
 </td>
 <td width="35%">
@@ -81,16 +85,5 @@ alt="mohamed-samir907 :: Top Langs by commit" />
 
 </td>
 
-</tr>
-<tr>
-<td colspan="3">
-
-### 📈 Language / Framework stats
-
-<a href='https://profile.codersrank.io/user/mohamed-samir907/'>
-  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mohamed-samir907&skills=go,javascript,php,shell'>
-</a>
-
-</td>
 </tr>
 </table>
