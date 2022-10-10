@@ -1,9 +1,3 @@
-<style>
-table {
-border: none;
-}
-</style>
-
 <table>
 <tr valign="top">
 <td width="65%">
