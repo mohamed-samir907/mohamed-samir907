@@ -63,27 +63,20 @@ alt="mohamed-samir907 :: Top Langs by commit" />
 </tr>
 
 <tr>
-<td width="30%">
-
+<td>
 <a href="https://github.com/msam1r/kallbaz-db">
-<img width="333" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
+<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
 </a>
-
 </td>
-<td width="30%">
-
+<td>
 <a href="https://github.com/msam1r/kallbaz-db">
-<img width="333" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
+<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
 </a>
-
 </td>
-<td width="30%">
-
+<td>
 <a href="https://github.com/msam1r/kallbaz-db">
-<img width="334" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
+<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=msam1r&repo=kallbaz-db">
 </a>
-
 </td>
-
 </tr>
 </table>
